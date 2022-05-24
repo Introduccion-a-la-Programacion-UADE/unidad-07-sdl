@@ -7,4 +7,6 @@ Está escrita en C y soporta nativamente C++, pero además existen versiones en 
 
 Oficialmente soporta las plataformas Windows, Mac OS X, Linux, iOS y Android.
 
-En nuestro caso, trabajaremos con la última versión estable 2.0.14.
+En nuestro caso, trabajaremos con la última versión estable 2.0.22.
+
+https://www.libsdl.org/download-2.0.php
