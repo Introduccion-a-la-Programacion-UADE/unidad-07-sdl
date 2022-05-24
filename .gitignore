@@ -434,3 +434,5 @@ project/Unidad-07/Unidad-07.vcxproj.filters
 *.user
 
 !project/Unidad-07/*.dll
+!project/lib/*.lib
+!project/lib/*.dll
